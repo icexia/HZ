@@ -1,0 +1,6 @@
+G:\Personally\HZ\HZ.Framework\HZ.Framework.EF\obj\Debug\HZ.Framework.EF.csprojResolveAssemblyReference.cache
+G:\Personally\HZ\HZ.Framework\HZ.Framework.EF\bin\Debug\HZ.Framework.EF.dll
+G:\Personally\HZ\HZ.Framework\HZ.Framework.EF\bin\Debug\HZ.Framework.EF.pdb
+G:\Personally\HZ\HZ.Framework\HZ.Framework.EF\bin\Debug\EntityFramework.dll
+G:\Personally\HZ\HZ.Framework\HZ.Framework.EF\obj\Debug\HZ.Framework.EF.dll
+G:\Personally\HZ\HZ.Framework\HZ.Framework.EF\obj\Debug\HZ.Framework.EF.pdb

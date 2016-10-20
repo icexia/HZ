@@ -1,0 +1,6 @@
+G:\Personally\HZ\HZ.Framework\HZ.Framework\bin\Debug\HZ.Framework.dll
+G:\Personally\HZ\HZ.Framework\HZ.Framework\bin\Debug\HZ.Framework.pdb
+G:\Personally\HZ\HZ.Framework\HZ.Framework\obj\Debug\HZ.Framework.dll
+G:\Personally\HZ\HZ.Framework\HZ.Framework\obj\Debug\HZ.Framework.pdb
+G:\Personally\HZ\HZ.Framework\HZ.Framework\bin\Debug\log4net.dll
+G:\Personally\HZ\HZ.Framework\HZ.Framework\obj\Debug\HZ.Framework.Utils.csprojResolveAssemblyReference.cache
