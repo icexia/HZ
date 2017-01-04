@@ -44,6 +44,18 @@ namespace HZ.Framework
         /// </summary>
         public readonly int page_num = 0;//当前页码
 
+        //是否有上一页
+        public bool HasPreviousPage
+        {
+            get { return page > 1; }
+        }
+
+        //是否有下一页
+        public bool HasNextPage
+        {
+            get { return page < this.total; }
+        }
+
         /// <summary>
         /// 实例化
         /// </summary>

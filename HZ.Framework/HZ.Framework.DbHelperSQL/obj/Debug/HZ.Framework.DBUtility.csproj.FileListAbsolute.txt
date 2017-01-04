@@ -3,3 +3,8 @@ G:\Personally\HZ\HZ.Framework\HZ.Framework.DbHelperSQL\bin\Debug\HZ.Framework.Db
 G:\Personally\HZ\HZ.Framework\HZ.Framework.DbHelperSQL\obj\Debug\HZ.Framework.DBUtility.csprojResolveAssemblyReference.cache
 G:\Personally\HZ\HZ.Framework\HZ.Framework.DbHelperSQL\obj\Debug\HZ.Framework.DbHelperSQL.dll
 G:\Personally\HZ\HZ.Framework\HZ.Framework.DbHelperSQL\obj\Debug\HZ.Framework.DbHelperSQL.pdb
+G:\MyGit\HZ\HZ.Framework\HZ.Framework.DbHelperSQL\bin\Debug\HZ.Framework.DbHelperSQL.dll
+G:\MyGit\HZ\HZ.Framework\HZ.Framework.DbHelperSQL\bin\Debug\HZ.Framework.DbHelperSQL.pdb
+G:\MyGit\HZ\HZ.Framework\HZ.Framework.DbHelperSQL\obj\Debug\HZ.Framework.DBUtility.csprojResolveAssemblyReference.cache
+G:\MyGit\HZ\HZ.Framework\HZ.Framework.DbHelperSQL\obj\Debug\HZ.Framework.DbHelperSQL.dll
+G:\MyGit\HZ\HZ.Framework\HZ.Framework.DbHelperSQL\obj\Debug\HZ.Framework.DbHelperSQL.pdb

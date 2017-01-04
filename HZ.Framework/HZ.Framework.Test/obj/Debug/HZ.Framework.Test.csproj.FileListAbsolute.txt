@@ -1,0 +1,6 @@
+G:\MyGit\HZ\HZ.Framework\HZ.Framework.Test\bin\Debug\HZ.Framework.Test.exe.config
+G:\MyGit\HZ\HZ.Framework\HZ.Framework.Test\bin\Debug\HZ.Framework.Test.exe
+G:\MyGit\HZ\HZ.Framework\HZ.Framework.Test\bin\Debug\HZ.Framework.Test.pdb
+G:\MyGit\HZ\HZ.Framework\HZ.Framework.Test\obj\Debug\HZ.Framework.Test.csprojResolveAssemblyReference.cache
+G:\MyGit\HZ\HZ.Framework\HZ.Framework.Test\obj\Debug\HZ.Framework.Test.exe
+G:\MyGit\HZ\HZ.Framework\HZ.Framework.Test\obj\Debug\HZ.Framework.Test.pdb

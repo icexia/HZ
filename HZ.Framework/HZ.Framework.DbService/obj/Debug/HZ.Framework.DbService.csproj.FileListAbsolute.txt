@@ -1,0 +1,5 @@
+G:\MyGit\HZ\HZ.Framework\HZ.Framework.DbService\bin\Debug\HZ.Framework.DbService.dll
+G:\MyGit\HZ\HZ.Framework\HZ.Framework.DbService\bin\Debug\HZ.Framework.DbService.pdb
+G:\MyGit\HZ\HZ.Framework\HZ.Framework.DbService\obj\Debug\HZ.Framework.DbService.csprojResolveAssemblyReference.cache
+G:\MyGit\HZ\HZ.Framework\HZ.Framework.DbService\obj\Debug\HZ.Framework.DbService.dll
+G:\MyGit\HZ\HZ.Framework\HZ.Framework.DbService\obj\Debug\HZ.Framework.DbService.pdb

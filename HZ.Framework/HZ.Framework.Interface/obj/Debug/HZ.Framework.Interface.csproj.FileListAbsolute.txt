@@ -1,0 +1,9 @@
+G:\MyGit\HZ\HZ.Framework\HZ.Framework.Interface\obj\Debug\HZ.Framework.Interface.csprojResolveAssemblyReference.cache
+G:\MyGit\HZ\HZ.Framework\HZ.Framework.Interface\bin\Debug\HZ.Framework.Interface.dll
+G:\MyGit\HZ\HZ.Framework\HZ.Framework.Interface\bin\Debug\HZ.Framework.Interface.pdb
+G:\MyGit\HZ\HZ.Framework\HZ.Framework.Interface\bin\Debug\HZ.Framework.DbHelperSQL.dll
+G:\MyGit\HZ\HZ.Framework\HZ.Framework.Interface\bin\Debug\HZ.Framework.Entity.dll
+G:\MyGit\HZ\HZ.Framework\HZ.Framework.Interface\bin\Debug\HZ.Framework.DbHelperSQL.pdb
+G:\MyGit\HZ\HZ.Framework\HZ.Framework.Interface\bin\Debug\HZ.Framework.Entity.pdb
+G:\MyGit\HZ\HZ.Framework\HZ.Framework.Interface\obj\Debug\HZ.Framework.Interface.dll
+G:\MyGit\HZ\HZ.Framework\HZ.Framework.Interface\obj\Debug\HZ.Framework.Interface.pdb
