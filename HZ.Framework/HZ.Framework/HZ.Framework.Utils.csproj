@@ -38,6 +38,7 @@
       <HintPath>Lib\log4net.dll</HintPath>
     </Reference>
     <Reference Include="System" />
+    <Reference Include="System.Configuration" />
     <Reference Include="System.Core" />
     <Reference Include="System.Xml.Linq" />
     <Reference Include="System.Data.DataSetExtensions" />
@@ -47,11 +48,13 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="CSVFileHelper.cs" />
+    <Compile Include="EmailHelper.cs" />
     <Compile Include="EncodingTypeHelper.cs" />
     <Compile Include="EnumDescription.cs" />
     <Compile Include="HttpHelper.cs" />
     <Compile Include="Log.cs" />
     <Compile Include="PageList.cs" />
+    <Compile Include="RegEx.cs" />
     <Compile Include="Security.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
