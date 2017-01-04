@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace HZ.Framework.Interface
 {
-    interface IBaseDal<T> where T:class,new ()
+    public interface IBaseDal<T> where T:class,new ()
     {
         bool Add(T model);
         bool Delete(int Id);

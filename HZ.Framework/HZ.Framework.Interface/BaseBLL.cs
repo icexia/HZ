@@ -8,7 +8,7 @@ namespace HZ.Framework.Interface
 {
     public class BaseBLL<T> where T:class,new ()
     {
-        private IBaseDal<T> dal = HZ.Framework.DbUtility.DataAccess<IBaseDal<T>>.CreateDal();
+        public IBaseDal<T> dal = HZ.Framework.DbUtility.DataAccess<IBaseDal<T>>.CreateDal();
 
         public virtual bool Add(T model)
         {
