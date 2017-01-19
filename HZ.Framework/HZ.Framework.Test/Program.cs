@@ -10,6 +10,9 @@ namespace HZ.Framework.Test
     {
         static void Main(string[] args)
         {
+            string strTest ="test";
+            strTest.CheckNotNull("str");
+
         }
     }
 }

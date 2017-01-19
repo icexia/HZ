@@ -10,3 +10,5 @@ G:\MyGit\HZ\HZ.Framework\HZ.Framework\bin\Debug\log4net.dll
 G:\MyGit\HZ\HZ.Framework\HZ.Framework\obj\Debug\HZ.Framework.Utils.csprojResolveAssemblyReference.cache
 G:\MyGit\HZ\HZ.Framework\HZ.Framework\obj\Debug\HZ.Framework.dll
 G:\MyGit\HZ\HZ.Framework\HZ.Framework\obj\Debug\HZ.Framework.pdb
+G:\MyGit\HZ\HZ.Framework\HZ.Framework\obj\Debug\HZ.Framework.Properties.Resource.resources
+G:\MyGit\HZ\HZ.Framework\HZ.Framework\obj\Debug\HZ.Framework.Utils.csproj.GenerateResource.Cache
